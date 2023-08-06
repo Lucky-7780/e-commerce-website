@@ -10,6 +10,9 @@ https://1drv.ms/f/s!Ap8phxqEyD6YglmmXAN-t5UP25T9?e=Jb6NmH
 For icons:
 https://1drv.ms/f/s!Ap8phxqEyD6YgleTbSbiiVMkzOGR?e=tBeGya
 
+For logo:
+https://1drv.ms/f/s!Ap8phxqEyD6YglhCLj2wbM0Vg7RP?e=GJuJ7h
+
 **Features:**
 
 Product Catalog: Users can browse through a wide range of products and view detailed information about each product, including images, descriptions, and prices.
