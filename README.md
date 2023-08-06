@@ -4,7 +4,8 @@ This is an e-commerce website project that allows users to browse and purchase p
 for store administrators to manage products, orders, and customers.
 
 **Download pictures here**
-
+For products:
+https://1drv.ms/f/s!Ap8phxqEyD6YglmmXAN-t5UP25T9?e=Jb6NmH
 
 **Features:**
 
