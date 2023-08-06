@@ -7,6 +7,9 @@ for store administrators to manage products, orders, and customers.
 For products:
 https://1drv.ms/f/s!Ap8phxqEyD6YglmmXAN-t5UP25T9?e=Jb6NmH
 
+For icons:
+https://1drv.ms/f/s!Ap8phxqEyD6YgleTbSbiiVMkzOGR?e=tBeGya
+
 **Features:**
 
 Product Catalog: Users can browse through a wide range of products and view detailed information about each product, including images, descriptions, and prices.
